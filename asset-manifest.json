@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-timeline-app/static/css/main.6d282d63.css",
+    "main.js": "/my-timeline-app/static/js/main.c2de6d60.js",
+    "static/js/453.45f793a7.chunk.js": "/my-timeline-app/static/js/453.45f793a7.chunk.js",
+    "index.html": "/my-timeline-app/index.html",
+    "main.6d282d63.css.map": "/my-timeline-app/static/css/main.6d282d63.css.map",
+    "main.c2de6d60.js.map": "/my-timeline-app/static/js/main.c2de6d60.js.map",
+    "453.45f793a7.chunk.js.map": "/my-timeline-app/static/js/453.45f793a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d282d63.css",
+    "static/js/main.c2de6d60.js"
+  ]
+}
